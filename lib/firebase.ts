@@ -20,5 +20,5 @@ if (typeof window !== 'undefined' && location.hostname === "localhost") {
   connectFirestoreEmulator(db, "127.0.0.1", 8181);
 }
 
-export { db };
+export { app,db };
 
