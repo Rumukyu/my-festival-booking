@@ -1,0 +1,25 @@
+.reservation-container {
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.reservation-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.reservation-card h1 {
+  font-size: 24px;
+  color: #333;
+}
+
+.reservation-card p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.reservation-card strong {
+  color: #333;
+}
